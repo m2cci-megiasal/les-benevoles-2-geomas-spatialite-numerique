@@ -1,1 +1,1 @@
-# les-b-n-voles-2-geomas-spatialit-num-rique
+# les-benevoles-2-geomas-spatialite-numerique
